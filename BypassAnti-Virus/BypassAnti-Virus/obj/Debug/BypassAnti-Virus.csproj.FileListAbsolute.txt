@@ -1,0 +1,10 @@
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\bin\Debug\BypassAnti-Virus.exe.config
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\bin\Debug\BypassAnti-Virus.exe
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\bin\Debug\BypassAnti-Virus.pdb
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti-Virus.csproj.AssemblyReference.cache
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti-Virus.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti_Virus.Properties.Resources.resources
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti-Virus.csproj.GenerateResource.cache
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti-Virus.csproj.CoreCompileInputs.cache
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti-Virus.exe
+E:\VisualStudio\BypassAnti-Virus\BypassAnti-Virus\obj\Debug\BypassAnti-Virus.pdb
